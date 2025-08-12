@@ -1,4 +1,4 @@
-![logo](https://github.com/aritra01-coder/aritra01-coder/blob/main/Green%20and%20Black%20Modern%20Gamer%20YouTube%20Banner.png)
+![logo](https://github.com/aritra01-coder/aritra01-coder/commit/c968a99dab0d86e526f7be098b22c3e67c6c599b)
 <h1 align="center">Hi 👋, I'm Aritra Basu</h1>
 <h3 align="center">Data-driven professional with an MBA in progress and a strong foundation in AI/ML, data analysis, market research, and digital strategy.</h3>
 
